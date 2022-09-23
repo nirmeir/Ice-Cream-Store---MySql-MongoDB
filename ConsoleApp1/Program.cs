@@ -122,7 +122,7 @@ do
             break;
         case 3:
             BusinessLogic.Logic.CreateOrder();
-            BusinessLogic.Logic.delete_orders();
+            
             break;
         case 4:
             
