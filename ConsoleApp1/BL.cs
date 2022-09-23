@@ -524,7 +524,7 @@ namespace BusinessLogic
 
         public static void get_day_report()
         {
-            Console.WriteLine("Please enter the date you want to get the report:(dd/mm/yyyy)");
+            Console.WriteLine("Please enter the date you want to get the report:(yyyy/mm/dd)");
             string date = Console.ReadLine();
 
             string connStr = "server=localhost;user=root;port=3306;password=";
