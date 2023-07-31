@@ -2,7 +2,6 @@
 # Ice Cream Store DB
 
 - Nir Meir 313229106, 
-- Moriya Bitton 316451749
 
 # How to run
 
